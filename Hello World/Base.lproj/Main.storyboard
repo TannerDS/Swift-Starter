@@ -28,7 +28,7 @@
                                 <rect key="frame" x="170" y="71" width="35" height="30"/>
                                 <state key="normal" title="Hello"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QvH-Pp-ake">
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QvH-Pp-ake">
                                 <rect key="frame" x="175" y="241" width="36" height="30"/>
                                 <state key="normal" title="Clear"/>
                             </button>
@@ -38,6 +38,7 @@
                             <constraint firstItem="4Ak-ct-gP8" firstAttribute="top" secondItem="7Vp-CN-YYB" secondAttribute="bottom" constant="10" id="1iS-r4-LGJ"/>
                             <constraint firstItem="7Vp-CN-YYB" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="7JL-7v-uhW"/>
                             <constraint firstItem="4Ak-ct-gP8" firstAttribute="centerX" secondItem="7Vp-CN-YYB" secondAttribute="centerX" id="Ao5-Hx-W2s"/>
+                            <constraint firstItem="QvH-Pp-ake" firstAttribute="top" secondItem="4Ak-ct-gP8" secondAttribute="bottom" constant="10" id="HO0-MT-rqQ"/>
                             <constraint firstItem="QvH-Pp-ake" firstAttribute="centerX" secondItem="4Ak-ct-gP8" secondAttribute="centerX" id="Zj4-l4-CT9"/>
                             <constraint firstItem="7Vp-CN-YYB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="ogB-tW-KpZ"/>
                         </constraints>
