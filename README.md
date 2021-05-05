@@ -1,2 +1,2 @@
-# Hello-World
-Challenge 1 Hello World - swift
+# swift-starter
+Hello world and a few functions
